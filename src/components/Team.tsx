@@ -30,7 +30,7 @@ const teamMembers = [
     role: 'App Developer and Certified Ethical Hacker',
     image: khalid,
     bio: 'Flutter App Developer and Certified Ethical Hacker passionate about cybersecurity and mobile solutions.',
-    social: { linkedin: 'https://www.linkedin.com/in/ikhalidbinwaheed/', twitter: 'https://x.com/Khalidjan63', github: 'https://github.com/Khalidbinwaheed', website: 'https://khalidbinwaheed.github.io/Khalid-Portfolio/' },
+    social: { linkedin: 'https://www.linkedin.com/in/ikhalidbinwaheed/', twitter: 'https://x.com/Khalidjan63', github: 'https://github.com/Khalidbinwaheed', website: 'https://khalidbinwaheed.github.io/ikhalidbinwaheed/' },
   },
   
   {
